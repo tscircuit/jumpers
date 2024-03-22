@@ -17,9 +17,6 @@ export const SmdJumper = ({ name, labels }: Props) => {
       {labels.map((l, i) => (
         <>
           <port name={l} x={0} y={-sch_h / 2 + i * 0.25} direction="left" />
-          <text x={0.5} y={-sch_h / 2 + i * 0.25} direction="left">
-            {l}
-          </text>
         </>
       ))}
     </component>

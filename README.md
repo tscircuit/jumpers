@@ -1,8 +1,6 @@
-# @seveibar/.
+# @tscircuit/jumpers
 
 [![tscircuit version badge](https://registry.tscircuit.com/badges/view?package_name=@seveibar..)](https://registry.tscircuit.com/seveibar/.)
-
-
 
 > This project was generated using [tsci](https://github.com/tscircuit/tscircuit)
 

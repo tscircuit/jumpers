@@ -1,5 +1,5 @@
 {
-  "name": "@seveibar/.",
+  "name": "@tscircuit/jumpers",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
@@ -14,6 +14,8 @@
     "dev": "tsci dev"
   },
   "dependencies": {
-    "@tscircuit/footprints": "^0.0.14"
-  }
+    "@tscircuit/footprints": "^0.0.14",
+    "@tscircuit/react-fiber": "^1.0.12"
+  },
+  "version": "0.0.2"
 }
